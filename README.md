@@ -54,12 +54,12 @@ de Banxico.
 - **Entorno** — Jupyter Lab
 
 ## Estructura del repositorio
-├── analisis_inflacion_subyacente.ipynb  # Notebook principal
-├── serie_historica.png                  # Gráfica serie histórica
-├── acf_pacf.png                         # Gráficas ACF y PACF
-├── diagnostico_residuales.png           # Diagnóstico de residuales
-├── pronostico.png                       # Pronóstico a 12 meses
-└── evaluacion_out_of_sample.png         # Evaluación out-of-sample
+├── analisis_inflacion_subyacente.ipynb    # Notebook principal
+├── serie_historica.png                    # Gráfica serie histórica
+├── acf_pacf.png                           # Gráficas ACF y PACF
+├── diagnostico_residuales.png             # Diagnóstico de residuales
+├── pronostico.png                         # Pronóstico a 12 meses
+└── evaluacion_out_of_sample.png           # Evaluación out-of-sample
 
 ## Posibles Extensiones
 
